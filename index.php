@@ -118,7 +118,7 @@ const ARCHIVARIX_INCLUDE_CUSTOM = array(
  * for .content.xxxxxxxx directory. Set the different value if you
  * renamed that directory.
  */
-const ARCHIVARIX_CONTENT_PATH = '';
+const ARCHIVARIX_CONTENT_PATH = 'content.G2Bvh2yP';
 
 /**
  * Set Cache-Control header for static files.
